@@ -18,6 +18,7 @@
 
 #### > usage : `python anoncjtest.py site.txt (nama file)`
 
-`setelah selesai,pindah file nya
-`after finishing moving the file
+setelah selesai,pindah file nya
+
+after finishing moving the file
 
